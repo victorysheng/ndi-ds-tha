@@ -1,0 +1,19 @@
+name: ndi_ds_tha
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12.3
+  - ipykernel=6.29.4
+  - ipywidgets=8.1.3
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - seaborn=0.13.2
+  - matplotlib=3.8.4
+  - ydata-profiling=4.8.3 
+  - missingno=0.5.2 
+  - scikit-learn=1.5.0
+  - lightgbm=4.3.0
+  - optuna=3.6.1
+  - shap=0.45.1
